@@ -1,0 +1,13 @@
+.box{position: absolute;
+    height: 400px;
+    width: 400px;
+    top: 50%;
+    left: 50%;
+    background-color: aqua;
+}
+.inner-box{position: relative;
+    top: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 55);
+}
